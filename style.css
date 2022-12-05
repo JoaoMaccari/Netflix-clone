@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+}
+
+                    /* LOGIN*/
+
+.logo {
+    width: 150px;
+}
+body.bg_filmes{
+    background-image: url(/assets/login-bg.jpeg);
+
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    padding: 50px;
+    background: rgb(0,0,0);
+    background: linear-gradient(
+        180deg, 
+        rgba(0,0,0,0.69) 0%, 
+        rgba(0,0,0,0) 100%
+    );
+}
+
+#caixa-login{
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 30px;
+    margin-top: 150px;
+}
+
+
+
+
+
+.menu_list{
+    
+    list-style: none;
+    padding-left: 0;
+    padding-top: 25px;
+}
+
+.menu_list li{
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.menu_list li a{
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+#hero{
+    height: 700px;
+    background-image: image();
+}
