@@ -1,2 +1,2 @@
-# Netflix cone
+# Netflix clone.
  Netflix clone page
