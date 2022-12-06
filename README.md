@@ -1,2 +1,2 @@
 # Netflix clone.
- Netflix clone page
+ Netflix clone home/login page.
